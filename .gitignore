@@ -2,4 +2,4 @@
 venv/
 
 # Creds
-creds.txt
+creds.json

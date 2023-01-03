@@ -1,2 +1,5 @@
 # Environments
 venv/
+
+# Creds
+creds.txt
